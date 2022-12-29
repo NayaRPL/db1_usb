@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T08:14:24.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="r77DNzxDJsBTbnpdYyJr" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T08:19:07.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="Wq4_fDKAmaSS0EkRrNZA" type="github">
   <diagram id="C4MIaizf-qjDwHlQ6Ev2" name="Halaman-1">
-    <mxGraphModel dx="2652" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1684" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWf6ZJCEevyrpwsMUmKh-15" value="Penjualan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rWf6ZJCEevyrpwsMUmKh-15" value="Penjual" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rWf6ZJCEevyrpwsMUmKh-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.781;exitY=0.944;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rWf6ZJCEevyrpwsMUmKh-18" target="rWf6ZJCEevyrpwsMUmKh-15">
@@ -13,7 +13,7 @@
             <mxPoint x="120" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWf6ZJCEevyrpwsMUmKh-17" value="&lt;u&gt;id_penjualan&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rWf6ZJCEevyrpwsMUmKh-17" value="&lt;u&gt;id_penjual&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWf6ZJCEevyrpwsMUmKh-18" value="nama_penjual" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
             <mxPoint x="170" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWf6ZJCEevyrpwsMUmKh-26" value="nama_penjual" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rWf6ZJCEevyrpwsMUmKh-26" value="no_telp" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWf6ZJCEevyrpwsMUmKh-28" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="rWf6ZJCEevyrpwsMUmKh-15">
@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWf6ZJCEevyrpwsMUmKh-29" value="id_penjualan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rWf6ZJCEevyrpwsMUmKh-29" value="alamat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWf6ZJCEevyrpwsMUmKh-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="rWf6ZJCEevyrpwsMUmKh-32">
